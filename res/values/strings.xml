@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Junior PE Games</string>
+    <string name="game_book">Game Book</string>
+    
+    <string name="categories">Categories</string>
+    <string name="alphabetical">A - Z</string>
+    <string name="random">Random</string>
+    <string name="my_lessons">My Lessons</string>
+    <string name="add_game">Add Game</string>
+    <string name="edit_game">Edit Game</string>
+    
+    <string name="add_category">Add Category</string>
+    <string name="add_to_my_lessons">Add to My Lessons</string>
+    <string name="remove_from_my_lessons">Remove from My Lessons</string>
+   
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="refresh">Refresh</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    
+    <string name="category_name">Category name &#8230;</string>
+    <string name="search">Search</string>
+    <string name="save_error">Can\'t save the game. Did you specify the name?</string>
+    
+    <string name="name">Name</string>
+    <string name="students">Students</string>
+    <string name="area">Area</string>
+    <string name="equipment">Equipment</string>
+    <string name="instructions">Instructions</string>
+    <string name="variation">Variation</string>
+    
+    <string-array name="files">
+        <item>2Hand.csv</item>
+        <item>Ball Bounce.csv</item>
+        <item>Catch.csv</item>
+        <item>Dodge.csv</item>
+        <item>Forehand.csv</item>
+        <item>Jump.csv</item>
+        <item>Kick.csv</item>
+        <item>Leap.csv</item>
+        <item>Overarm.csv</item>
+        <item>Punt.csv</item>
+        <item>Run.csv</item>
+    </string-array>
+
+</resources>
